@@ -8,3 +8,6 @@ print(f'{name} your {age}???? thats pretty old')
 
 if age > 25:
     print('you oldyyy') 
+
+if age >= 13 and age <= 19:
+    print('Your a teen!!')
